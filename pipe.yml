@@ -1,0 +1,13 @@
+name: Greet Pipe
+image: r3dshadow/demo:bitbucket-pipe-1.0
+description: This Bitbucket Pipe that prints a personalized greeting message
+category: Testing
+repository: https://bitbucket.org/safeervs789/bitbucket-pipe/
+vendor:
+  name: Safeer
+  website: https://red-shadow.live/
+maintainer:
+  name: Safeer
+  website: https://red-shadow.live/
+tags:
+    - greet
